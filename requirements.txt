@@ -1,0 +1,6 @@
+llama-index-core
+llama-index-vector-stores-faiss
+llama-index-readers-file
+llama-index-embeddings-huggingface
+llama-index-embeddings-openai
+faiss-gpu
